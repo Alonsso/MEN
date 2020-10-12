@@ -1,0 +1,27 @@
+{
+  "name": "men",
+  "version": "1.0.0",
+  "description": "Project for learning REST API using MEN",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alonsso/MEN.git"
+  },
+  "author": "alonsso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alonsso/MEN/issues"
+  },
+  "homepage": "https://github.com/Alonsso/MEN#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.6.2",
+    "mongoose": "^5.10.9"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
