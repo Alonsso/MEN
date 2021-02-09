@@ -1,4 +1,4 @@
-# ME
+# MEN
 
 Project for learning REST API using MEN
 
